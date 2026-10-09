@@ -27,4 +27,4 @@ Backend engineer with ~5 years of experience building APIs and services with **N
 
 [manishksharma.dev](https://manishksharma.dev) · [LinkedIn](https://www.linkedin.com/in/manish-sharma-b7a4aa14b)
 
-<!-- Most of my professional work lives in private company repositories. -->
+Most of my professional work lives in private company repositories. 
