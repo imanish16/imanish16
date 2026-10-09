@@ -1,24 +1,30 @@
-Hi 👋 My name is Manish | Web developer
-=======================
+## Hi, I'm Manish Kumar 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-</div>
+Backend engineer with ~5 years of experience building APIs and services with **Node.js, NestJS and TypeScript**, plus **Python/FastAPI** and **LLM-powered features (LangChain, LangGraph, RAG)**.
 
-### Crafting Digital Marvels with Passion and Precision
+- 💼 Backend Engineer at **Tru**, Mohali · previously **TeQ Mavens**, Panchkula
+- 🌐 [manishksharma.dev](https://manishksharma.dev)
+- 📍 Punjab, India
 
-🚀 Seasoned Web Wizard with a Pinch of Spice! 🌶️ Crafting digital marvels with PHP, Laravel, Vue.js, React, Node.js, HTML, CSS, JavaScript, and CodeIgniter, I orchestrate digital symphonies like a maestro in the coding orchestra 🎶. I bring the perfect blend of expertise and creativity to every project. Guided by the wisdom of the Upanishads and the resilience of stoic philosophy, I navigate the digital landscape with grace and determination. As the ancient sages said, 'You are what your deepest desire is,' I infuse each project with passion and purpose, ensuring every line of code serves a greater vision. But hey, it's not all seriousness and code! 🎉 Let's sprinkle in some tech humor: Why do programmers prefer dark mode? Because light attracts bugs! 🌑 Let's embark on a journey where innovation meets inspiration, and every project is a feast for the senses. Together, let's create digital magic that leaves users spellbound. 💻✨
+### Tech I work with
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [manishsharma2k16@gmail.com](mailto:manishsharma2k16@gmail.com)
-* 🧠  I'm learning node
+| Area | Stack |
+| --- | --- |
+| Languages | TypeScript, JavaScript (Node.js), Python |
+| Frameworks | NestJS, Express, FastAPI |
+| Databases | PostgreSQL, MongoDB, Redis |
+| AI / LLM | LangChain, LangGraph, RAG pipelines |
+| Cloud & DevOps | AWS, Docker |
 
-### Skills
+### What I focus on
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+- Designing and building REST APIs and backend services in Node.js/NestJS and FastAPI
+- Data modelling and queries across PostgreSQL, MongoDB and Redis
+- Adding LLM features to products with LangChain / LangGraph and retrieval-augmented generation
+- Containerising and deploying services with Docker on AWS
 
-### Socials
+### Contact
 
-<p align="left"> <a href="https://www.github.com/imanish16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/manish-sharma-b7a4aa14b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@i.manish_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+[manishksharma.dev](https://manishksharma.dev) · [LinkedIn](https://www.linkedin.com/in/manish-sharma-b7a4aa14b)
+
+<!-- Most of my professional work lives in private company repositories. -->
